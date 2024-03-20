@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //재귀함수를 이용한 최소공배수
-public class Solution11 {
+public class Main {
     public static final int MAX_N = 10;
     public static int N;
     public static int[] arr = new int[MAX_N +  1];
