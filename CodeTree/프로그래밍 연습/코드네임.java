@@ -3,7 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution16 {
+//코드네임
+public class Main {
     public static class User{
         String codeName;
         int score;
